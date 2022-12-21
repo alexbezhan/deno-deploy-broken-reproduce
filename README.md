@@ -1,1 +1,1 @@
-This repository allows to reproduce broken Deno Deploy
+This repository allows to reproduce broken Deno Deploy (Fresh framework)
